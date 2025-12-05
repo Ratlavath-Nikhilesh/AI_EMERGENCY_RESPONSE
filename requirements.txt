@@ -1,0 +1,7 @@
+numpy
+pandas
+networkx
+matplotlib      # for simple visualizations later if needed
+scipy           # may be useful for probabilities / distributions
+pgmpy           # for Bayesian Network in Module 1
+tqdm            # for RL training progress in Module 4
